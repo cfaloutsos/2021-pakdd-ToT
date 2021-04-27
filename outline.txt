@@ -1,0 +1,4 @@
+
+A) Past: oddBall [Mary]
+B) Present: outlier-detection, IF, RRCF, Fraudar, lookOut [Leman]
+C) Future: outliers <-> patterns <-> MDL/compression [me]
