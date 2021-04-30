@@ -1,4 +1,18 @@
 
 A) Past: oddBall [Mary]
 B) Present: outlier-detection, IF, RRCF, Fraudar, lookOut [Leman]
+
+
+	Alex , Neil
+	Spotlight - 
+		% RRCF - Nina Mishra
+	Fraudar - 
+	Charu - book
+	Jiawei
+	Tina - Representation learning
+	Jure - node2vec
+	DeepWalk - Bryan Perozzi
+	lookOut
+	
+
 C) Future: outliers <-> patterns <-> MDL/compression [me]
