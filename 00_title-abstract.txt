@@ -1,0 +1,28 @@
+Title: Anomaly detection in graphs - past, present and future.
+Speakers: Leman Akoglu, Mary McGlohon and Christos Faloutsos
+
+Abstract:
+    In 2010, OddBall proposed a method to find strange nodes in a large graph.
+    First we present its main idea; then we list follow up work
+    on anomaly detection in homogeneous, heterogeneous, 
+    and time-evolving graphs; and conclude with future directions.
+
+
+Bio - Leman Akoglu
+
+
+Bio - Mary McGlohon
+
+
+Bio - Christos Faloutsos
+    Christos Faloutsos is a Professor at Carnegie Mellon University.
+    He is an ACM Fellow, and the recipient of the Fredkin Professorship 
+    in Artificial Intelligence (2020);
+    he has received the Research Contributions Award
+    in ICDM 2006, the SIGKDD Innovations Award (2010),
+    and the PAKDD Distinguished Contributions Award (2018).
+    His research interests include large-scale data mining
+    with emphasis on graphs and time sequences;
+    anomaly detection, tensors, and fractals.
+
+
