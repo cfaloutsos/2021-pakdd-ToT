@@ -1,0 +1,29 @@
+
+####### first and only time ################
+git clone https://github.com/cfaloutsos/2021-pakdd-ToT.git
+
+
+######## everyday use ###############################
+git pull    	# obvious
+vim bla.txt	# say, you add a few lines to 'bla.txt'
+git commit -a -m'some_message'  # prepare for push-ing
+git push	# pushes all the committed work to the main repo
+
+####### More rare: if you want to add a new file #########
+git add some_new_file.txt
+git commit -a -m'added stuff'
+git push
+
+
+
+
+
+######## OPTIONAL: getting info #######################
+git status   	# see what is new / modified
+git log -n3	# see the last few commits, by you or others
+
+
+#### Cheat-Sheet: 
+#### https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+######## More info: https://git-scm.com/docs/git
