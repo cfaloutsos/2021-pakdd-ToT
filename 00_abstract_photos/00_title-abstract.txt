@@ -13,6 +13,11 @@ Leman Akoglu is the Heinz College Dean's Associate Professor of Information Syst
 
 
 Bio - Mary McGlohon
+    Mary McGlohon is a Site Reliability Engineer at Google, focused on
+    productionization of large-scale machine learning systems and data
+    pipelines. She completed her PhD in Machine Learning at Carnegie Mellon
+    University in 2010, with thesis entitled "Structural Analysis of
+    Networks: Observations and Applications".
 
 
 Bio - Christos Faloutsos
