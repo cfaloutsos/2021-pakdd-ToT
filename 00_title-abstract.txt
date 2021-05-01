@@ -2,13 +2,14 @@ Title: Anomaly detection in graphs - past, present and future.
 Speakers: Leman Akoglu, Mary McGlohon and Christos Faloutsos
 
 Abstract:
-    In 2010, OddBall proposed a method to find strange nodes in a large graph.
+    In 2010, OddBall proposed a method to find unusual nodes in a large graph.
     First we present its main idea; then we list follow up work
-    on anomaly detection in homogeneous, heterogeneous, 
-    and time-evolving graphs; and conclude with future directions.
+    on node, subgraph, and graph level anomaly detection and representation learning; and conclude with future directions.
 
 
 Bio - Leman Akoglu
+Leman Akoglu is the Heinz College Dean's Associate Professor of Information Systems at Carnegie Mellon University. Her research focuses on pattern discovery and anomaly mining, with applications to fraud and event detection. She is a recipient of the SDM/IBM Early Career Data Mining Research award (2020), National Science Foundation CAREER award (2015) and US Army Research Office Young Investigator award (2013). Her research has won 7 publication awards (SIAM SDM 2019, ECML PKDD 2018, SIAM SDM 2016, SIAM SDM 2015, ADC 2014, PAKDD 2010, and ECML PKDD 2009). 
+
 
 
 Bio - Mary McGlohon
