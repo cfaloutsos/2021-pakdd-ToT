@@ -1,19 +1,159 @@
 
 A) Past: oddBall [Mary]
-B) Present: outlier-detection, IF, RRCF, Fraudar, lookOut [Leman]
+B) Present: Fraudar, lookOut [Leman]
 
-	PHOTOS
+-----------------------------------
+Graph Outlier Detection
+-----------------------------------
+	Node-level	
 
-	Alex , Neil
-	Spotlight - 
-		% RRCF - Nina Mishra
-	Fraudar - 
-	Charu - book
-	Jiawei
-	Tina - Representation learning
-	Jure - node2vec
-	DeepWalk - Bryan Perozzi
-	lookOut
+	-----------------------------------
+[limited supervision]
+propagation: (attributes as prior)
+	- FraudEagle
+	- SpEagle
+
+
+node-attributes:
+
+Graph NNs
+
+
+[56] Wenchao Yu, Wei Cheng, Charu C. Aggarwal, Kai Zhang, Haifeng Chen, and Wei Wang. 2018. NetWalk: A Flexible Deep Embedding Approach for Anomaly
+Detection in Dynamic Networks. In KDD. ACM, 2672–2681.
+
+[57] Tong Zhao, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang. 2020. Error-Bounded Graph Anomaly Loss for GNNs. In CIKM. 1873–1882.
+
+end-to-end with a loss:
+
+(reconstruction)
+[8] Kaize Ding, Jundong Li, Rohit Bhanushali, and Huan Liu. 2019. Deep Anomaly
+Detection on Attributed Networks. In SDM. SIAM, 594–602.
+
+(one-class)
+[51] Xuhong Wang, Ying Du, Ping Cui, and Yupu Yang. 2020. OCGNN: One-class Classification with Graph Neural Networks. CoRR abs/2002.09594 (2020).
+
+
+		
+
+Explanations
+-----------------------------------
+	Dot2Dot
+	
+	LookOut
+	
+
+
+
+	Subgraph-level
+	-----------------------------------
+
+	- EigenSpokes
+
+[21] B. Aditya Prakash, Ashwin Sridharan, Mukund Seshadri, Sridhar Machiraju,
+and Christos Faloutsos. 2010. EigenSpokes: Surprising Patterns and Scalable
+Community Chipping in Large Graphs. In PAKDD, Vol. 6119. Springer, 435–448.
+
+	- FocusCO
+
+	- Discovering Opinion Spammer Groups by Network Footprints
+
+	- AMEN
+
+	- Fraudar
+
+[11] Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, and Christos
+Faloutsos. 2016. FRAUDAR: Bounding Graph Fraud in the Face of Camouflage.
+In KDD. ACM, 895–904.
+
+	- CopyCatch / CatchSync
+	
+[5] Alex Beutel, Wanhong Xu, Venkatesan Guruswami, Christopher Palow, and
+Christos Faloutsos. 2013. CopyCatch: stopping group attacks by spotting lockstep
+behavior in social networks. In WWW. ACM, 119–130.
+
+
+
+	Graph-level
+	-----------------------------------
+
+Database:
+	- Subdue
+[33] Caleb C. Noble and Diane J. Cook. 2003. Graph-based anomaly detection.. In
+KDD. ACM, 631–636.
+
+	- CODEtect
+
+	- GLAM ?
+
+
+Evolving: [node correspondence]
+
+
+	- GraphScope
+
+[27] Jimeng Sun, Christos Faloutsos, Spiros Papadimitriou, and Philip S. Yu. 2007.
+GraphScope: parameter-free mining of large time-evolving graphs. In KDD. ACM,
+687–696.
+
+	Charu has other works here...
+
+[4] C. C. Aggarwal, Y. Zhao, and P. S. Yu. Outlier detection in
+graph streams. In ICDE, 2011.
+GOutlier [4] introduced structural
+reservoir sampling to maintain summaries of graph streams
+and detect anomalous graphs as those having unlikely edges.
+
+[31] Weiren Yu, Charu C Aggarwal, Shuai Ma, and Haixun Wang. 2013. On anomalous
+hotspot discovery in graph streams. In ICDM. IEEE, 1271–1276.
+
+
+	- StreamSpot
+
+[25] Emaad A. Manzoor, Sadegh M. Milajerdi, and Leman Akoglu. 2016. Fast Memory- efficient Anomaly Detection in Streaming Heterogeneous Graphs.. In KDD. ACM,
+1035–1044.
+
+
+	- Spotlight ?
+
+[11] Dhivya Eswaran, Christos Faloutsos, Sudipto Guha, and Nina Mishra. 2018. Spot-
+Light: Detecting Anomalies in Streaming Graphs.. In KDD. ACM, 1378–1386.
+
+
+
+
+
+-----------------------------------
+Graph Representation Learning
+-----------------------------------
+
+	- Recursive Structural Features	
+
+
+	Node-level (unsupervised)
+	- DeepWalk, node2vec, GraphSage etc.
+
+[16] William L. Hamilton, Zhitao Ying, and Jure Leskovec. 2017. Inductive Represen-
+tation Learning on Large Graphs.. In NIPS. 1024–1034.
+
+
+	Graph-level
+	- ...
+
+[29] AnnamalaiNarayanan,MahinthanChandramohan,RajasekarVenkatesan,Lihui Chen, Yang Liu, and Shantanu Jaiswal. 2017. graph2vec: Learning Distributed Representations of Graphs. CoRR abs/1707.05005 (2017).
+
+[30] MarionNeumann,RomanGarnett,ChristianBauckhage,andKristianKersting. 2016. Propagation kernels: efficient graph kernels from propagated information. Machine Learning 102, 2 (2016), 209–245.
+
+
+
+	-------- CITE OUR SURVEY --------
+
+
+-----------------------------------
+Challenges with Deep Learning
+-----------------------------------
+
+	
 	
 
 C) Future: outliers <-> patterns <-> MDL/compression [me]
