@@ -6,13 +6,21 @@
 
   [this leads to Leman's part, on rep. learning]
 
-*** for all: **********
-A) any 'thanks' for funding agencies etc?
-  [please put them in a pptx file, say P[12]_thanks.pptx  ]
+*** for P2: ****
+    a) as little work as possible - say, pick your latest tutorial / talk
+       and use most/all of those slides
+    b) for the other papers (spotLight, Fraudar, etc), just give 
+       the citations (
+         'dense block detection algorithms include CopyCatch[], Fraudar[], ..'
 
-B) contact email address?
-   m.mcgloho@gmail.com
-   lakoglu@andrew.cmu.edu
-   christos@andrew.cmu.edu
+
+*** for all: **********
+    A) any 'thanks' for funding agencies etc?
+      [please put them in a pptx file, say P[12]_thanks.pptx  ]
+    
+    B) contact email address?
+       m.mcgloho@gmail.com
+       lakoglu@andrew.cmu.edu
+       christos@andrew.cmu.edu
 
 
