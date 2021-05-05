@@ -1,0 +1,9 @@
+- for P1: I'd propose for last slide: 
+       in short: 
+       (a) node embedding (= feature extraction = rep. learning)
+       (b) pattern/rule extraction
+
+  [this leads to Leman's part, on rep. learning]
+
+- for all: any 'thanks' for funding agencies etc?
+  [put them in a pptx file, say P[12]_thanks.pptx  ]
