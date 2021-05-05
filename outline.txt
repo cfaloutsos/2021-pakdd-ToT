@@ -1,6 +1,10 @@
 
+
+
+
+
 A) Past: oddBall [Mary]
-B) Present: Fraudar, lookOut [Leman]
+B) Present:  [Leman]
 
 -----------------------------------
 Graph Outlier Detection
@@ -15,6 +19,8 @@ propagation: (attributes as prior)
 
 
 node-attributes:
+
+	- FocusCO
 
 Graph NNs
 
@@ -44,7 +50,6 @@ Explanations
 	
 
 
-
 	Subgraph-level
 	-----------------------------------
 
@@ -54,7 +59,7 @@ Explanations
 and Christos Faloutsos. 2010. EigenSpokes: Surprising Patterns and Scalable
 Community Chipping in Large Graphs. In PAKDD, Vol. 6119. Springer, 435–448.
 
-	- FocusCO
+
 
 	- Discovering Opinion Spammer Groups by Network Footprints
 
@@ -66,7 +71,7 @@ Community Chipping in Large Graphs. In PAKDD, Vol. 6119. Springer, 435–448.
 Faloutsos. 2016. FRAUDAR: Bounding Graph Fraud in the Face of Camouflage.
 In KDD. ACM, 895–904.
 
-	- CopyCatch / CatchSync
+	- CopyCatch 
 	
 [5] Alex Beutel, Wanhong Xu, Venkatesan Guruswami, Christopher Palow, and
 Christos Faloutsos. 2013. CopyCatch: stopping group attacks by spotting lockstep
@@ -78,7 +83,8 @@ behavior in social networks. In WWW. ACM, 119–130.
 	-----------------------------------
 
 Database:
-	- Subdue
+OLD
+	- Subdue		
 [33] Caleb C. Noble and Diane J. Cook. 2003. Graph-based anomaly detection.. In
 KDD. ACM, 631–636.
 
@@ -90,6 +96,7 @@ KDD. ACM, 631–636.
 Evolving: [node correspondence]
 
 
+OLD
 	- GraphScope
 
 [27] Jimeng Sun, Christos Faloutsos, Spiros Papadimitriou, and Philip S. Yu. 2007.
