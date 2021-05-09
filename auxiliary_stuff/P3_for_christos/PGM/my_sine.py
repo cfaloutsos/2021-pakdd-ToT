@@ -31,6 +31,11 @@ plt.savefig("sine-all.png")
 plt.show()
 
 plt.clf()
-plt.plot(x,y,"w--", xp,yp,"bo", [xpp], [ypp], "bo")
+plt.plot([xpp], [ypp], "bo")
 plt.savefig("sine-init.png")
+plt.show()
+
+plt.clf()
+plt.plot(x,y,"g-")
+plt.savefig("sine-only.png")
 plt.show()
