@@ -1,3 +1,15 @@
+presentation:
+    Zoom Link: - 
+        http://bit.ly/Pakdd-Hall-1
+    Passcode: -
+        12345
+participation
+    Login URL: 
+        https://pakdd2021.webconevents.com
+    Login Id: Your Registered e-mail id (provided during the registration of nomination)
+        christos@cs.cmu.edu
+    Password: -
+        2222
 
 
 Dear Participant,
