@@ -1,6 +1,7 @@
 presentation:
     Zoom Link: - 
         http://bit.ly/Pakdd-Hall-1
+    login: my email
     Passcode: -
         12345
 participation
